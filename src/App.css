@@ -1,0 +1,13 @@
+.App{
+    text-align: center;
+
+}
+
+.card img{
+    height: 200px;
+    background-color: rgb(196, 204, 183);
+    
+}
+.card{
+    margin-bottom: 10px;
+}
